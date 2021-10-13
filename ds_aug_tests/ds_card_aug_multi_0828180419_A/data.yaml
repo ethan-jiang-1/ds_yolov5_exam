@@ -1,0 +1,6 @@
+    
+train: ../train/images
+val: ../valid/images
+
+nc: 19
+names: ['HBU02-A26S', 'HBU02-A27', 'HBU03-A84', 'HBU02-A29', 'HBU02-A34', 'HBU02-A32', 'HBU02-A06', 'HBU02-A25', 'HBU02-A37', 'HBU02-BK0', 'HBU02-A32S', 'HBU02-A84', 'HBU02-A22', 'HBU02-A33', 'HBU02-A28', 'HBU02-A53', 'HBU02-A17', 'HBU02-A31', 'HBU02-A20'] 
